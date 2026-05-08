@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508142830FG7P7L</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508142830NRTBSF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto curso competencia digital docente B2 (Sda El maravilloso mundo de la Lengua Castellana)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Sda de Lengua Castellana</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Alfonso García Ávila</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Sda de Lengua Castellana</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778139049190</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>e9040a71-b114-4b42-a7df-6ea90aca2da8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Portada</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Portada</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>e9040a71-b114-4b42-a7df-6ea90aca2da8</odePageId>
+      <odeBlockId>block-1778139235186-y4r6e4k23</odeBlockId>
+      <blockName>1. Portada</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>e9040a71-b114-4b42-a7df-6ea90aca2da8</odePageId>
+          <odeBlockId>block-1778139235186-y4r6e4k23</odeBlockId>
+          <odeIdeviceId>idevice-1778139235178-mp4lcdwr9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center"></figure>
+<figure class="exe-figure position-center"><img src="{{context_path}}/content/resources/mceclip0.jpg" /></figure>
+<figure class="exe-figure position-center"><img src="&lt;a href=&quot;https://www.magnific.com/free-vector/vector-blank-book-cover-isolated-white_10601355.htm#fromView=search&amp;page=1&amp;position=0&amp;uuid=682f0a56-c245-461d-bfca-7034713addf7&amp;query=libro&quot;&gt;Image by macrovector on Magnific&lt;/a&gt;" title="Libro blanco" alt="Libro blanco" />
+<figcaption class="figcaption"><span class="title"><em>Libro blanco</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><br /><strong>El maravilloso mundo de la Lengua Castellana. 6º de Educación Primaria</strong></p>
+<p><br />Bienvenidos a una experiencia de aprendizaje diferente donde utilizaremos herramientas digitales, trabajo cooperativo y metodologías activas para mejorar nuestra comprensión lectora y creatividad.</p>
+<p>A lo largo de este proyecto aprenderemos mediante:</p>
+<ul>
+<li>Aula invertida</li>
+<li>Trabajo cooperativo</li>
+<li>Canva</li>
+<li>Google Classroom</li>
+<li>Kahoot</li>
+<li>Mapas conceptuales</li>
+<li>Autoevaluación y coevaluación</li>
+</ul>
+<p>Producto final:<br />Creación de una presentación digital en Canva para sintetizar y explicar la información de un texto mediante elementos visuales.</p>
+<p>Autor:<br />Alfonso García Ávila <br />Curso:<br />2025-2026</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778139235178-mp4lcdwr9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\"></figure>\n<figure class=\"exe-figure position-center\"><img src=\"{{context_path}}/content/resources/mceclip0.jpg\" /></figure>\n<figure class=\"exe-figure position-center\"><img src=\"&lt;a href=&quot;https://www.magnific.com/free-vector/vector-blank-book-cover-isolated-white_10601355.htm#fromView=search&amp;page=1&amp;position=0&amp;uuid=682f0a56-c245-461d-bfca-7034713addf7&amp;query=libro&quot;&gt;Image by macrovector on Magnific&lt;/a&gt;\" title=\"Libro blanco\" alt=\"Libro blanco\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Libro blanco</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><br /><strong>El maravilloso mundo de la Lengua Castellana. 6º de Educación Primaria</strong></p>\n<p><br />Bienvenidos a una experiencia de aprendizaje diferente donde utilizaremos herramientas digitales, trabajo cooperativo y metodologías activas para mejorar nuestra comprensión lectora y creatividad.</p>\n<p>A lo largo de este proyecto aprenderemos mediante:</p>\n<ul>\n<li>Aula invertida</li>\n<li>Trabajo cooperativo</li>\n<li>Canva</li>\n<li>Google Classroom</li>\n<li>Kahoot</li>\n<li>Mapas conceptuales</li>\n<li>Autoevaluación y coevaluación</li>\n</ul>\n<p>Producto final:<br />Creación de una presentación digital en Canva para sintetizar y explicar la información de un texto mediante elementos visuales.</p>\n<p>Autor:<br />Alfonso García Ávila <br />Curso:<br />2025-2026</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778140009753-rqkfgd95h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778140009753-rqkfgd95h</odePageId>
+      <odeBlockId>block-1778140016669-o95vqm2la</odeBlockId>
+      <blockName>2. Presentación del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778140009753-rqkfgd95h</odePageId>
+          <odeBlockId>block-1778140016669-o95vqm2la</odeBlockId>
+          <odeIdeviceId>idevice-1778140016661-i2kj2tuc5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>¿En qué consiste este proyecto?</strong></p>
+<p style="text-align: justify;"><br />En esta Situación de Aprendizaje trabajaremos la comprensión lectora y la competencia digital mediante la metodología de aula invertida.</p>
+<p style="text-align: justify;">El alumnado visualizará contenidos en casa y aprovechará el tiempo de clase para realizar actividades prácticas, cooperativas y creativas.</p>
+<p style="text-align: justify;">El proyecto pretende fomentar:</p>
+<ol>
+<li style="text-align: justify;">La autonomía del alumnado.</li>
+<li style="text-align: justify;">El aprendizaje colaborativo.</li>
+<li style="text-align: justify;">El uso responsable de herramientas digitales.</li>
+<li style="text-align: justify;">La creatividad.</li>
+<li style="text-align: justify;">La comprensión y síntesis de información.</li>
+<li style="text-align: justify;">Metodologías utilizadas</li>
+</ol>
+<ul>
+<li>Aula invertida (Flipped Classroom)</li>
+<li>Aprendizaje cooperativo</li>
+<li>Gamificación</li>
+<li>Aprendizaje basado en proyectos</li>
+<li>Evaluación formativa</li>
+</ul>
+<p>Áreas implicadas:</p>
+<ul>
+<li>Lengua Castellana y Literatura</li>
+<li>Competencia Digital</li>
+<li>Educación en Valores</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778140016661-i2kj2tuc5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>¿En qué consiste este proyecto?</strong></p>\n<p style=\"text-align: justify;\"><br />En esta Situación de Aprendizaje trabajaremos la comprensión lectora y la competencia digital mediante la metodología de aula invertida.</p>\n<p style=\"text-align: justify;\">El alumnado visualizará contenidos en casa y aprovechará el tiempo de clase para realizar actividades prácticas, cooperativas y creativas.</p>\n<p style=\"text-align: justify;\">El proyecto pretende fomentar:</p>\n<ol>\n<li style=\"text-align: justify;\">La autonomía del alumnado.</li>\n<li style=\"text-align: justify;\">El aprendizaje colaborativo.</li>\n<li style=\"text-align: justify;\">El uso responsable de herramientas digitales.</li>\n<li style=\"text-align: justify;\">La creatividad.</li>\n<li style=\"text-align: justify;\">La comprensión y síntesis de información.</li>\n<li style=\"text-align: justify;\">Metodologías utilizadas</li>\n</ol>\n<ul>\n<li>Aula invertida (Flipped Classroom)</li>\n<li>Aprendizaje cooperativo</li>\n<li>Gamificación</li>\n<li>Aprendizaje basado en proyectos</li>\n<li>Evaluación formativa</li>\n</ul>\n<p>Áreas implicadas:</p>\n<ul>\n<li>Lengua Castellana y Literatura</li>\n<li>Competencia Digital</li>\n<li>Educación en Valores</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778140322589-4ilivk65v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Aprendizajes</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Aprendizajes</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778140322589-4ilivk65v</odePageId>
+      <odeBlockId>block-1778140328335-d0swo8yei</odeBlockId>
+      <blockName>3. ¿Qué vamos a aprender?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778140322589-4ilivk65v</odePageId>
+          <odeBlockId>block-1778140328335-d0swo8yei</odeBlockId>
+          <odeIdeviceId>idevice-1778140328330-fkjb728k8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>3. ¿QUÉ VAMOS A APRENDER?</strong></p>
+<p style="text-align: justify;"><br />Objetivos de aprendizaje: <br />Al finalizar esta SdA el alumnado será capaz de:</p>
+<ol>
+<li>Comprender textos escritos y extraer información relevante.</li>
+<li>Expresar ideas de forma oral y escrita.</li>
+<li>Sintetizar información mediante recursos visuales.</li>
+<li>Utilizar herramientas digitales de manera responsable.</li>
+<li>Trabajar en equipo respetando las opiniones de los demás.</li>
+<li>Participar activamente en dinámicas cooperativas.</li>
+<li>Crear contenidos digitales originales utilizando Canva.<br /></li>
+</ol>
+<p>Competencias específicas trabajadas:</p>
+<ul>
+<li>Comunicación lingüística.</li>
+<li>Competencia digital.</li>
+<li>Competencia personal, social y de aprender a aprender.</li>
+<li>Competencia ciudadana.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778140328330-fkjb728k8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>3. ¿QUÉ VAMOS A APRENDER?</strong></p>\n<p style=\"text-align: justify;\"><br />Objetivos de aprendizaje: <br />Al finalizar esta SdA el alumnado será capaz de:</p>\n<ol>\n<li>Comprender textos escritos y extraer información relevante.</li>\n<li>Expresar ideas de forma oral y escrita.</li>\n<li>Sintetizar información mediante recursos visuales.</li>\n<li>Utilizar herramientas digitales de manera responsable.</li>\n<li>Trabajar en equipo respetando las opiniones de los demás.</li>\n<li>Participar activamente en dinámicas cooperativas.</li>\n<li>Crear contenidos digitales originales utilizando Canva.<br /></li>\n</ol>\n<p>Competencias específicas trabajadas:</p>\n<ul>\n<li>Comunicación lingüística.</li>\n<li>Competencia digital.</li>\n<li>Competencia personal, social y de aprender a aprender.</li>\n<li>Competencia ciudadana.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778234247475-habemslgv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778234247475-habemslgv</odePageId>
+      <odeBlockId>block-1778234250191-k0tswzq5l</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778234247475-habemslgv</odePageId>
+          <odeBlockId>block-1778234250191-k0tswzq5l</odeBlockId>
+          <odeIdeviceId>idevice-1778234250188-a4dldfevo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>Nuestro reto final</strong></p>
+<p style="text-align: justify;"><br />El producto final consistirá en la creación, por parejas, de una <strong>presentación digital en Canva.</strong></p>
+<p>La presentación deberá:</p>
+<ol>
+<li>Resumir la información principal del texto trabajado.</li>
+<li>Incluir imágenes, títulos y elementos visuales.</li>
+<li>Estar organizada y ser clara.</li>
+<li>Mostrar creatividad.</li>
+<li>Utilizar un lenguaje adecuado, sin faltas de ortografía ni gramática.<br />Además…<br />Cada pareja expondrá oralmente su trabajo al resto de la clase (debéis participar los dos de manera equitativa) y participará en una actividad de coevaluación.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778234250188-a4dldfevo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>Nuestro reto final</strong></p>\n<p style=\"text-align: justify;\"><br />El producto final consistirá en la creación, por parejas, de una <strong>presentación digital en Canva.</strong></p>\n<p>La presentación deberá:</p>\n<ol>\n<li>Resumir la información principal del texto trabajado.</li>\n<li>Incluir imágenes, títulos y elementos visuales.</li>\n<li>Estar organizada y ser clara.</li>\n<li>Mostrar creatividad.</li>\n<li>Utilizar un lenguaje adecuado, sin faltas de ortografía ni gramática.<br />Además…<br />Cada pareja expondrá oralmente su trabajo al resto de la clase (debéis participar los dos de manera equitativa) y participará en una actividad de coevaluación.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778234394689-1pzsxfjo1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Secuenciación de actividades</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Secuenciación de actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778234394689-1pzsxfjo1</odePageId>
+      <odeBlockId>block-1778234397398-h55c4z1il</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778234394689-1pzsxfjo1</odePageId>
+          <odeBlockId>block-1778234397398-h55c4z1il</odeBlockId>
+          <odeIdeviceId>idevice-1778234397396-av37dx0e6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>5.1 SESIÓN 0 </strong><br />Sesión 0 – Preparación en casa</p>
+<p><br />¿Qué haremos?</p>
+<ol>
+<li>Visualizar un vídeo explicativo.</li>
+<li>Leer un texto digital en Google Classroom.</li>
+<li>Realizar un pequeño formulario online.</li>
+</ol>
+<p><br />Herramientas digitales:</p>
+<ol>
+<li>Google Classroom</li>
+<li>Formularios de Google</li>
+<li>Vídeo interactivo</li>
+</ol>
+<p><br />Objetivo:<br />Llegar a clase con una primera comprensión del texto.</p>
+<p>Agrupamiento:<br />Trabajo individual.</p>
+<p>Espacio:<br />Casa.</p>
+<p> <br /><strong>5.2 SESIÓN 1</strong><br />Sesión 1 – Comprensión lectora cooperativa<br />Actividades:</p>
+<ol>
+<li>Debate guiado.</li>
+<li>Elaboración de un mapa conceptual.</li>
+<li>Kahoot de repaso.</li>
+</ol>
+<p><br />Agrupamientos:</p>
+<ol>
+<li>Gran grupo.</li>
+<li>Pequeños grupos cooperativos.</li>
+</ol>
+<p><br />Espacios:<br />Aula ordinaria.</p>
+<p><br />Herramientas:</p>
+<ol>
+<li>Kahoot</li>
+<li>Pizarra digital</li>
+<li>Google Classroom</li>
+</ol>
+<p><br />Objetivos:</p>
+<ol>
+<li>Comprender el texto.</li>
+<li>Compartir ideas.</li>
+</ol>
+<p>Aprender cooperativamente.<br /> <br /><strong>5.3 SESIÓN 2</strong><br />Sesión 2 – Creación del Canva</p>
+<p>Actividad principal<br />Creación en parejas de una presentación digital en Canva donde sintetizarán la información del texto mediante elementos visuales.</p>
+<p>Qué debe incluir:</p>
+<ul>
+<li>Título</li>
+<li>Ideas principales</li>
+<li>Imágenes</li>
+<li>Organización visual</li>
+<li>Creatividad</li>
+</ul>
+<p><br />Agrupamiento:<br />Trabajo por parejas.</p>
+<p>Herramientas:</p>
+<ol>
+<li>Ordenadores o tablets</li>
+<li>Conexión a internet</li>
+</ol>
+<p>Objetivos:</p>
+<ol>
+<li>Sintetizar información.</li>
+<li>Crear contenido digital.</li>
+<li>Desarrollar la creatividad.</li>
+</ol>
+<p>Fomentar el trabajo cooperativo<br /> <br /><strong>5.4 SESIÓN 3</strong><br />Sesión 3 – Exposición y evaluación<br />Actividades:</p>
+<ol>
+<li>Exposición oral de los trabajos.</li>
+<li>Coevaluación.</li>
+<li>Autoevaluación mediante diana.</li>
+<li>Reflexión grupal.</li>
+</ol>
+<p><br />Instrumentos de evaluación:</p>
+<ol>
+<li>Rúbrica</li>
+<li>Diana de evaluación</li>
+<li>Lista de cotejo</li>
+</ol>
+<p><br />Objetivos:</p>
+<ol>
+<li>Reflexionar sobre el aprendizaje.</li>
+<li>Mejorar la expresión oral.</li>
+<li>Valorar el trabajo propio y ajeno.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778234397396-av37dx0e6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>5.1 SESIÓN 0 </strong><br />Sesión 0 – Preparación en casa</p>\n<p><br />¿Qué haremos?</p>\n<ol>\n<li>Visualizar un vídeo explicativo.</li>\n<li>Leer un texto digital en Google Classroom.</li>\n<li>Realizar un pequeño formulario online.</li>\n</ol>\n<p><br />Herramientas digitales:</p>\n<ol>\n<li>Google Classroom</li>\n<li>Formularios de Google</li>\n<li>Vídeo interactivo</li>\n</ol>\n<p><br />Objetivo:<br />Llegar a clase con una primera comprensión del texto.</p>\n<p>Agrupamiento:<br />Trabajo individual.</p>\n<p>Espacio:<br />Casa.</p>\n<p> <br /><strong>5.2 SESIÓN 1</strong><br />Sesión 1 – Comprensión lectora cooperativa<br />Actividades:</p>\n<ol>\n<li>Debate guiado.</li>\n<li>Elaboración de un mapa conceptual.</li>\n<li>Kahoot de repaso.</li>\n</ol>\n<p><br />Agrupamientos:</p>\n<ol>\n<li>Gran grupo.</li>\n<li>Pequeños grupos cooperativos.</li>\n</ol>\n<p><br />Espacios:<br />Aula ordinaria.</p>\n<p><br />Herramientas:</p>\n<ol>\n<li>Kahoot</li>\n<li>Pizarra digital</li>\n<li>Google Classroom</li>\n</ol>\n<p><br />Objetivos:</p>\n<ol>\n<li>Comprender el texto.</li>\n<li>Compartir ideas.</li>\n</ol>\n<p>Aprender cooperativamente.<br /> <br /><strong>5.3 SESIÓN 2</strong><br />Sesión 2 – Creación del Canva</p>\n<p>Actividad principal<br />Creación en parejas de una presentación digital en Canva donde sintetizarán la información del texto mediante elementos visuales.</p>\n<p>Qué debe incluir:</p>\n<ul>\n<li>Título</li>\n<li>Ideas principales</li>\n<li>Imágenes</li>\n<li>Organización visual</li>\n<li>Creatividad</li>\n</ul>\n<p><br />Agrupamiento:<br />Trabajo por parejas.</p>\n<p>Herramientas:</p>\n<ol>\n<li>Ordenadores o tablets</li>\n<li>Conexión a internet</li>\n</ol>\n<p>Objetivos:</p>\n<ol>\n<li>Sintetizar información.</li>\n<li>Crear contenido digital.</li>\n<li>Desarrollar la creatividad.</li>\n</ol>\n<p>Fomentar el trabajo cooperativo<br /> <br /><strong>5.4 SESIÓN 3</strong><br />Sesión 3 – Exposición y evaluación<br />Actividades:</p>\n<ol>\n<li>Exposición oral de los trabajos.</li>\n<li>Coevaluación.</li>\n<li>Autoevaluación mediante diana.</li>\n<li>Reflexión grupal.</li>\n</ol>\n<p><br />Instrumentos de evaluación:</p>\n<ol>\n<li>Rúbrica</li>\n<li>Diana de evaluación</li>\n<li>Lista de cotejo</li>\n</ol>\n<p><br />Objetivos:</p>\n<ol>\n<li>Reflexionar sobre el aprendizaje.</li>\n<li>Mejorar la expresión oral.</li>\n<li>Valorar el trabajo propio y ajeno.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778234870997-luwdmuc9z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Herramientas usadas</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Herramientas usadas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778234870997-luwdmuc9z</odePageId>
+      <odeBlockId>block-1778234873012-eit84bo7i</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778234870997-luwdmuc9z</odePageId>
+          <odeBlockId>block-1778234873012-eit84bo7i</odeBlockId>
+          <odeIdeviceId>idevice-1778234873010-wtros898o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las herramientas que utilizaremos en la realización de nuestro proyecto serán las siguientes:<br /><strong>1. Google Classroom</strong><br />Para compartir materiales y tareas.</p>
+<p><strong>2. Canva</strong><br />Para crear presentaciones visuales.</p>
+<p><strong>3. Kahoot</strong><br />Para realizar juegos y repasar contenidos.</p>
+<p><strong>4.Formularios de Google</strong><br />Para comprobar la comprensión lectora.</p>
+<p><strong>5.Uso responsable</strong><br />Todas las herramientas se utilizarán siguiendo normas de seguridad y respeto digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778234873010-wtros898o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las herramientas que utilizaremos en la realización de nuestro proyecto serán las siguientes:<br /><strong>1. Google Classroom</strong><br />Para compartir materiales y tareas.</p>\n<p><strong>2. Canva</strong><br />Para crear presentaciones visuales.</p>\n<p><strong>3. Kahoot</strong><br />Para realizar juegos y repasar contenidos.</p>\n<p><strong>4.Formularios de Google</strong><br />Para comprobar la comprensión lectora.</p>\n<p><strong>5.Uso responsable</strong><br />Todas las herramientas se utilizarán siguiendo normas de seguridad y respeto digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778235010780-msqmgee19</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Protección de datos y seguridad digital</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Protección de datos y seguridad digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778235010780-msqmgee19</odePageId>
+      <odeBlockId>block-1778235012803-l0ps0niw3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778235010780-msqmgee19</odePageId>
+          <odeBlockId>block-1778235012803-l0ps0niw3</odeBlockId>
+          <odeIdeviceId>idevice-1778235012801-fi5qdmzqv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>7. PROTECCIÓN DE DATOS Y CIUDADANÍA DIGITAL</strong></p>
+<p style="text-align: justify;">Uso responsable de las tecnologías<br />Durante este proyecto aprenderemos a utilizar herramientas digitales de manera segura y responsable.</p>
+<p>Normas importantes:</p>
+<ul>
+<li>No compartir contraseñas.</li>
+<li>Respetar la privacidad de los compañeros.</li>
+<li>Utilizar imágenes libres de derechos.</li>
+<li>Mantener una actitud respetuosa en internet.</li>
+<li>No publicar información personal.</li>
+<li>Derechos digitales</li>
+</ul>
+<p><br />Al hilo de lo anterior cabe mencionar que todo el alumnado tiene derecho a:</p>
+<ul>
+<li>La protección de sus datos personales.</li>
+<li>La privacidad digital.</li>
+<li>Un entorno digital seguro.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778235012801-fi5qdmzqv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>7. PROTECCIÓN DE DATOS Y CIUDADANÍA DIGITAL</strong></p>\n<p style=\"text-align: justify;\">Uso responsable de las tecnologías<br />Durante este proyecto aprenderemos a utilizar herramientas digitales de manera segura y responsable.</p>\n<p>Normas importantes:</p>\n<ul>\n<li>No compartir contraseñas.</li>\n<li>Respetar la privacidad de los compañeros.</li>\n<li>Utilizar imágenes libres de derechos.</li>\n<li>Mantener una actitud respetuosa en internet.</li>\n<li>No publicar información personal.</li>\n<li>Derechos digitales</li>\n</ul>\n<p><br />Al hilo de lo anterior cabe mencionar que todo el alumnado tiene derecho a:</p>\n<ul>\n<li>La protección de sus datos personales.</li>\n<li>La privacidad digital.</li>\n<li>Un entorno digital seguro.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778236805031-xhhu1swpj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Curación de contenidos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778236805031-xhhu1swpj</odePageId>
+      <odeBlockId>block-1778238276685-s5gyweb1r</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778236805031-xhhu1swpj</odePageId>
+          <odeBlockId>block-1778238276685-s5gyweb1r</odeBlockId>
+          <odeIdeviceId>idevice-1778238276681-536x6vyh5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>8. Curación de contenidos</strong></p>
+<p style="text-align: justify;"><strong>8.1 Recursos para el alumnado</strong></p>
+<p style="text-align: justify;"><strong title=""><a href="https://padlet.com/agaravi227/recursos-para-crear-mi-infografia-en-canva-x8sf9hdayo6l399q">https://padlet.com/agaravi227/recursos-para-crear-mi-infografia-en-canva-x8sf9hdayo6l399q</a></strong></p>
+<p style="text-align: justify;"><strong>8.2 Recursos para el profesorado</strong><strong></strong></p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAfxAMLQAA41-5EYflg==" title="Symbaloo para profesorado">https://www.symbaloo.com/shared/AAAAAfxAMLQAA41-5EYflg==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778238276681-536x6vyh5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>8. Curación de contenidos</strong></p>\n<p style=\"text-align: justify;\"><strong>8.1 Recursos para el alumnado</strong></p>\n<p style=\"text-align: justify;\"><strong title=\"\"><a href=\"https://padlet.com/agaravi227/recursos-para-crear-mi-infografia-en-canva-x8sf9hdayo6l399q\">https://padlet.com/agaravi227/recursos-para-crear-mi-infografia-en-canva-x8sf9hdayo6l399q</a></strong></p>\n<p style=\"text-align: justify;\"><strong>8.2 Recursos para el profesorado</strong><strong></strong></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAfxAMLQAA41-5EYflg==\" title=\"Symbaloo para profesorado\">https://www.symbaloo.com/shared/AAAAAfxAMLQAA41-5EYflg==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778236854227-myp9cgn4m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. Línea temporal</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778236854227-myp9cgn4m</odePageId>
+      <odeBlockId>block-1778238359340-dph4yyjqj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778236854227-myp9cgn4m</odePageId>
+          <odeBlockId>block-1778238359340-dph4yyjqj</odeBlockId>
+          <odeIdeviceId>idevice-1778238359337-ztocb2fa5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>9. Línea Temporal</strong></p>
+<p>La siguiente línea temporal muestra de forma visual la secuencia de actividades, agrupamientos, espacios y herramientas digitales utilizadas durante el proyecto.</p>
+<p><img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+<p><a href="https://canva.link/69dvu8f17zsnqbk" title="">https://canva.link/69dvu8f17zsnqbk</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778238359337-ztocb2fa5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>9. Línea Temporal</strong></p>\n<p>La siguiente línea temporal muestra de forma visual la secuencia de actividades, agrupamientos, espacios y herramientas digitales utilizadas durante el proyecto.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>\n<p><a href=\"https://canva.link/69dvu8f17zsnqbk\" title=\"\">https://canva.link/69dvu8f17zsnqbk</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778235140036-8kzbzfr9o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>10. Criterios de evaluación</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10. Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>10. Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778235140036-8kzbzfr9o</odePageId>
+      <odeBlockId>block-1778235141739-9mjhpp7eq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778235140036-8kzbzfr9o</odePageId>
+          <odeBlockId>block-1778235141739-9mjhpp7eq</odeBlockId>
+          <odeIdeviceId>idevice-1778235141737-8fyivn1ig</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>8. CRITERIOS DE EVALUACIÓN</strong></p>
+<p style="text-align: justify;"><br />¿Qué se evaluará?</p>
+<ol>
+<li style="text-align: justify;">Comprensión lectora</li>
+<li style="text-align: justify;">Identifica las ideas principales del texto.</li>
+<li style="text-align: justify;">Comprende la información trabajada.</li>
+<li style="text-align: justify;">Expresión oral y escrita</li>
+<li style="text-align: justify;">Explica ideas con claridad.</li>
+<li style="text-align: justify;">Utiliza vocabulario adecuado.</li>
+</ol>
+<p><br />Competencia digital y trabajo cooperativo:</p>
+<ol>
+<li>Utiliza Canva correctamente.</li>
+<li>Navega de forma responsable.</li>
+<li>Trabajo cooperativo</li>
+<li>Participa activamente.</li>
+<li>Respeta las opiniones de los demás.</li>
+<li>Colabora con su pareja.</li>
+<li>Creatividad</li>
+<li>Diseña presentaciones originales y organizadas.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778235141737-8fyivn1ig","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>8. CRITERIOS DE EVALUACIÓN</strong></p>\n<p style=\"text-align: justify;\"><br />¿Qué se evaluará?</p>\n<ol>\n<li style=\"text-align: justify;\">Comprensión lectora</li>\n<li style=\"text-align: justify;\">Identifica las ideas principales del texto.</li>\n<li style=\"text-align: justify;\">Comprende la información trabajada.</li>\n<li style=\"text-align: justify;\">Expresión oral y escrita</li>\n<li style=\"text-align: justify;\">Explica ideas con claridad.</li>\n<li style=\"text-align: justify;\">Utiliza vocabulario adecuado.</li>\n</ol>\n<p><br />Competencia digital y trabajo cooperativo:</p>\n<ol>\n<li>Utiliza Canva correctamente.</li>\n<li>Navega de forma responsable.</li>\n<li>Trabajo cooperativo</li>\n<li>Participa activamente.</li>\n<li>Respeta las opiniones de los demás.</li>\n<li>Colabora con su pareja.</li>\n<li>Creatividad</li>\n<li>Diseña presentaciones originales y organizadas.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778236927510-g5l8p91c4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>11. Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>11. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778236927510-g5l8p91c4</odePageId>
+      <odeBlockId>block-1778240083135-leur03w2r</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778236927510-g5l8p91c4</odePageId>
+          <odeBlockId>block-1778240083135-leur03w2r</odeBlockId>
+          <odeIdeviceId>idevice-1778240083128-x6ej265h8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>11. Instrumentos de evaluación</p>
+<p>Los instrumentos de evaluación serán variados, entre ellos destacan los siguientes:</p>
+<p>1. Rúbrica de evaluación<img src="{{context_path}}/content/resources/mceclip3.jpg" /></p>
+<p>2. Diana de coevaluación </p>
+<p><img src="{{context_path}}/content/resources/mceclip4.jpg" /></p>
+<p>La rúbrica será utilizada durante la sesión de exposición y entrega del producto final, es decir, la sesión 3. Permitirá evaluar tanto el resultado como el proceso de trabajo en pareja. Además, El alumnado ya sabrá previamente cuales serán los criterios a evaluar, por lo que le podemos dar la rúbrica el primer día de clase, durante la sesión invertida en clase 0, por medio de Google Classroom.</p>
+<p>La diana de evaluación la utilizaré al finalizar de la actividad para que el alumnado reflexione sobre su propio aprendizaje, por lo tanto será una coevaluación. Permite valorar aspectos como la comprensión del contenido, el trabajo en equipo o el uso de herramientas digitales.</p>
+<p><br /></p>
+<p>Con todo lo anterior, se completa el proceso de evaluación de esta SDA que constará de la heteroevaluación por mi parte y una coevaluación por media de la diana de evaluación. </p>
+<p>Otro método de evaluación de mi propia práctica docente es el uso del "aplausómetro". Siempre, al finalizar una Sda les pido al alumnado que valore por medio de "aplausómetro" algunos aspectos como:</p>
+<p>¿Te ha gustado la SDA?<br />¿Piensas que has aprendido?<br />¿Crees que lo he explicado bien?<br />¿Te ha gustado como he organizado los contenidos?<br />¿Quieres que mantengamos esta manera de dar clase? (Metodología)<br />Con algunas preguntas como estas voy valorando el nivel de satisfacción del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778240083128-x6ej265h8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>11. Instrumentos de evaluación</p>\n<p>Los instrumentos de evaluación serán variados, entre ellos destacan los siguientes:</p>\n<p>1. Rúbrica de evaluación<img src=\"{{context_path}}/content/resources/mceclip3.jpg\" /></p>\n<p>2. Diana de coevaluación </p>\n<p><img src=\"{{context_path}}/content/resources/mceclip4.jpg\" /></p>\n<p>La rúbrica será utilizada durante la sesión de exposición y entrega del producto final, es decir, la sesión 3. Permitirá evaluar tanto el resultado como el proceso de trabajo en pareja. Además, El alumnado ya sabrá previamente cuales serán los criterios a evaluar, por lo que le podemos dar la rúbrica el primer día de clase, durante la sesión invertida en clase 0, por medio de Google Classroom.</p>\n<p>La diana de evaluación la utilizaré al finalizar de la actividad para que el alumnado reflexione sobre su propio aprendizaje, por lo tanto será una coevaluación. Permite valorar aspectos como la comprensión del contenido, el trabajo en equipo o el uso de herramientas digitales.</p>\n<p><br /></p>\n<p>Con todo lo anterior, se completa el proceso de evaluación de esta SDA que constará de la heteroevaluación por mi parte y una coevaluación por media de la diana de evaluación. </p>\n<p>Otro método de evaluación de mi propia práctica docente es el uso del \"aplausómetro\". Siempre, al finalizar una Sda les pido al alumnado que valore por medio de \"aplausómetro\" algunos aspectos como:</p>\n<p>¿Te ha gustado la SDA?<br />¿Piensas que has aprendido?<br />¿Crees que lo he explicado bien?<br />¿Te ha gustado como he organizado los contenidos?<br />¿Quieres que mantengamos esta manera de dar clase? (Metodología)<br />Con algunas preguntas como estas voy valorando el nivel de satisfacción del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778235488923-pbzff3dzf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>12. Principios DUA</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>12. Principios DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>12. Principios DUA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778235488923-pbzff3dzf</odePageId>
+      <odeBlockId>block-1778235491361-ub8v7e5vz</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778235488923-pbzff3dzf</odePageId>
+          <odeBlockId>block-1778235491361-ub8v7e5vz</odeBlockId>
+          <odeIdeviceId>idevice-1778235491360-cajfv2bqg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Principios DUA aplicados</strong></p>
+<p>Esta Situación de Aprendizaje ha sido diseñada teniendo en cuenta los principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo múltiples formas de implicación, representación y expresión para garantizar la participación y el aprendizaje de todo el alumnado. Entre ellas destacan las siguientes:</p>
+<ol>
+<li>Múltiples formas de representación</li>
+<li>Uso de vídeos, imágenes y textos.</li>
+<li>Múltiples formas de acción y expresión</li>
+<li>Canva, exposiciones, mapas conceptuales y debates.</li>
+<li>Múltiples formas de implicación</li>
+<li>Gamificación, trabajo cooperativo y herramientas digitales motivadoras.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778235491360-cajfv2bqg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Principios DUA aplicados</strong></p>\n<p>Esta Situación de Aprendizaje ha sido diseñada teniendo en cuenta los principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo múltiples formas de implicación, representación y expresión para garantizar la participación y el aprendizaje de todo el alumnado. Entre ellas destacan las siguientes:</p>\n<ol>\n<li>Múltiples formas de representación</li>\n<li>Uso de vídeos, imágenes y textos.</li>\n<li>Múltiples formas de acción y expresión</li>\n<li>Canva, exposiciones, mapas conceptuales y debates.</li>\n<li>Múltiples formas de implicación</li>\n<li>Gamificación, trabajo cooperativo y herramientas digitales motivadoras.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778237148113-lbfxpp2x7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>13. Guía Didáctica</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>13. Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778237148113-lbfxpp2x7</odePageId>
+      <odeBlockId>block-1778240468424-z7xo5forl</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778237148113-lbfxpp2x7</odePageId>
+          <odeBlockId>block-1778240468424-z7xo5forl</odeBlockId>
+          <odeIdeviceId>idevice-1778240468420-l071x8pay</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><br /><strong>13. GUÍA DIDÁCTICA</strong></p>
+<p style="text-align: justify;"><br /><strong>Guía didáctica para el profesorado</strong><br />1. Datos generales de la Situación de Aprendizaje<br />Título<br />El maravilloso mundo de la Lengua Castellana</p>
+<p><strong>Etapa educativa</strong><br />Educación Primaria</p>
+<p>Nivel<br />6º de Educación Primaria</p>
+<p><strong>Área principal implicada</strong><br />Lengua Castellana y Literatura</p>
+<p><strong>Temporalización</strong><br />4 sesiones:</p>
+<p>Sesión 0 (en casa)<br />Sesión 1<br />Sesión 2<br />Sesión 3<br /><strong>Metodologías utilizadas</strong><br />Aula invertida (Flipped Classroom)<br />Aprendizaje cooperativo<br />Gamificación<br />Aprendizaje basado en proyectos<br />Evaluación formativa<br />Uso de herramientas digitales<br /> <br /><strong>2. Justificación pedagógica</strong><br />Esta Situación de Aprendizaje nace tras la reflexión sobre una experiencia previa con la metodología de aula invertida. A partir del análisis realizado, se plantea una propuesta más estructurada y motivadora que permita mejorar la participación del alumnado y su comprensión lectora mediante herramientas digitales y metodologías activas.</p>
+<p>El proyecto pretende favorecer:</p>
+<p>La autonomía.<br />La motivación.<br />El aprendizaje significativo.<br />El trabajo cooperativo.<br />La competencia digital.<br />La creatividad.<br />La reflexión sobre el propio aprendizaje.<br />El alumnado trabaja previamente en casa mediante recursos digitales y posteriormente aprovecha el tiempo de aula para actividades prácticas, colaborativas y creativas.</p>
+<p> <br /><strong>3. Objetivos didácticos</strong><br />El alumnado será capaz de:</p>
+<p>Comprender textos escritos e identificar sus ideas principales.<br />Utilizar estrategias de comprensión lectora.<br />Expresarse oralmente con claridad.<br />Elaborar producciones digitales creativas.<br />Trabajar cooperativamente respetando las opiniones de los demás.<br />Utilizar herramientas digitales de manera responsable y segura.<br />Reflexionar sobre su propio proceso de aprendizaje.<br /> <br /><strong>4. Competencias específicas trabajadas</strong><br />Lengua Castellana y Literatura<br />Comprender e interpretar textos escritos.<br />Expresarse oralmente de forma adecuada.<br />Crear producciones escritas y digitales coherentes.<br />Participar en interacciones comunicativas respetuosas.<br />Competencia Digital<br />Utilizar herramientas digitales de forma responsable.<br />Crear contenidos digitales.<br />Gestionar información digital.<br />Participar en entornos virtuales de aprendizaje.<br /> <br /><strong>5. Competencias clave</strong><br />Competencia en comunicación lingüística.<br />Competencia digital.<br />Competencia personal, social y de aprender a aprender.<br />Competencia ciudadana.<br />Competencia emprendedora.<br /> <br /><strong>6. Saberes básicos</strong><br />Comprensión lectora<br />Estrategias de lectura comprensiva.<br />Identificación de ideas principales y secundarias.<br />Interpretación de textos digitales.<br />Expresión oral<br />Exposición oral.<br />Debate.<br />Comunicación respetuosa.<br />Competencia digital<br />Uso de Google Classroom.<br />Creación de contenidos con Canva.<br />Seguridad y ciudadanía digital.<br />Trabajo cooperativo<br />Roles grupales.<br />Resolución dialogada de conflictos.<br />Escucha activa.<br /> <br /><strong>7. Secuencia didáctica</strong><br />Sesión<br />Actividad principal<br />Agrupamiento<br />Herramientas<br />Sesión 0<br />Lectura y formulario<br />Individual<br />Classroom y Forms<br />Sesión 1<br />Debate y mapa conceptual<br />Grupos cooperativos<br />Kahoot y pizarra digital<br />Sesión 2<br />Creación del Canva<br />Parejas<br />Canva<br />Sesión 3<br />Exposición y evaluación<br />Gran grupo<br />Canva y rúbricas<br /> <br /><strong>8. Relación entre tareas y criterios de evaluación</strong><br />Actividad<br />Qué se evalúa<br />Instrumento<br />Formulario inicial<br />Comprensión lectora<br />Formulario Google<br />Debate<br />Expresión oral<br />Observación directa<br />Mapa conceptual<br />Organización de ideas<br />Lista de cotejo<br />Canva<br />Competencia digital y creatividad<br />Rúbrica<br />Exposición oral<br />Comunicación oral<br />Rúbrica<br />Autoevaluación<br />Reflexión del aprendizaje<br />Diana<br /> <br /><strong>9. Instrumentos de evaluación</strong><br />Se utilizarán diversos instrumentos para realizar una evaluación continua y formativa:</p>
+<p>Rúbrica de evaluación.<br />Diana de autoevaluación.<br />Lista de cotejo.<br />Observación directa.<br />Coevaluación.<br />Formularios digitales.<br />La variedad de instrumentos permite recoger información desde diferentes perspectivas y favorecer la triangulación de datos.</p>
+<p> <br /><strong>10. Atención a la diversidad</strong><br />La SdA incorpora medidas para atender a la diversidad del alumnado:</p>
+<p>Agrupamientos flexibles.<br />Recursos visuales y audiovisuales.<br />Actividades multinivel.<br />Apoyo entre iguales.<br />Flexibilidad en la presentación de tareas.<br />Diferentes formas de participación y expresión.<br /> <br /><strong>11. Aplicación de los principios DUA</strong><br />Múltiples formas de implicación<br />Gamificación.<br />Trabajo cooperativo.<br />Actividades creativas.<br />Herramientas digitales motivadoras.<br />Múltiples formas de representación<br />Vídeos.<br />Imágenes.<br />Textos.<br />Mapas conceptuales.<br />Explicaciones orales.<br />Múltiples formas de acción y expresión<br />Canva.<br />Debates.<br />Exposiciones orales.<br />Autoevaluaciones.<br />Formularios digitales.<br /> <br /><strong>12. Recomendaciones metodológicas</strong><br />Introducir progresivamente la metodología de aula invertida.<br />Mantener comunicación constante con las familias.<br />Facilitar tutoriales digitales al alumnado.<br />Ofrecer apoyo individualizado cuando sea necesario.<br />Priorizar el aprendizaje activo y significativo.<br /> <br /><strong>13. Recursos necesarios</strong><br />Recursos digitales:<br /></p>
+<ul>
+<li>Google Classroom</li>
+<li>Canva</li>
+<li>Kahoot</li>
+<li>Formularios Google</li>
+<li>Ordenadores o tablets</li>
+<li>Pizarra digital</li>
+<li>Conexión a internet</li>
+</ul>
+<p>Recursos materiales:</p>
+<ul>
+<li>Cuaderno del alumnado<br /> <br /><strong>14. Evaluación de la práctica docente</strong></li>
+</ul>
+<p>Al finalizar la SdA se realizará una reflexión sobre:</p>
+<ul>
+<li>Participación del alumnado.</li>
+<li>Funcionamiento del aula invertida.</li>
+<li>Uso de herramientas digitales.</li>
+<li>Motivación del alumnado.</li>
+<li>Resultados obtenidos.</li>
+<li>Posibles mejoras futuras.</li>
+</ul>
+<p> <br /><strong></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778240468420-l071x8pay","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><br /><strong>13. GUÍA DIDÁCTICA</strong></p>\n<p style=\"text-align: justify;\"><br /><strong>Guía didáctica para el profesorado</strong><br />1. Datos generales de la Situación de Aprendizaje<br />Título<br />El maravilloso mundo de la Lengua Castellana</p>\n<p><strong>Etapa educativa</strong><br />Educación Primaria</p>\n<p>Nivel<br />6º de Educación Primaria</p>\n<p><strong>Área principal implicada</strong><br />Lengua Castellana y Literatura</p>\n<p><strong>Temporalización</strong><br />4 sesiones:</p>\n<p>Sesión 0 (en casa)<br />Sesión 1<br />Sesión 2<br />Sesión 3<br /><strong>Metodologías utilizadas</strong><br />Aula invertida (Flipped Classroom)<br />Aprendizaje cooperativo<br />Gamificación<br />Aprendizaje basado en proyectos<br />Evaluación formativa<br />Uso de herramientas digitales<br /> <br /><strong>2. Justificación pedagógica</strong><br />Esta Situación de Aprendizaje nace tras la reflexión sobre una experiencia previa con la metodología de aula invertida. A partir del análisis realizado, se plantea una propuesta más estructurada y motivadora que permita mejorar la participación del alumnado y su comprensión lectora mediante herramientas digitales y metodologías activas.</p>\n<p>El proyecto pretende favorecer:</p>\n<p>La autonomía.<br />La motivación.<br />El aprendizaje significativo.<br />El trabajo cooperativo.<br />La competencia digital.<br />La creatividad.<br />La reflexión sobre el propio aprendizaje.<br />El alumnado trabaja previamente en casa mediante recursos digitales y posteriormente aprovecha el tiempo de aula para actividades prácticas, colaborativas y creativas.</p>\n<p> <br /><strong>3. Objetivos didácticos</strong><br />El alumnado será capaz de:</p>\n<p>Comprender textos escritos e identificar sus ideas principales.<br />Utilizar estrategias de comprensión lectora.<br />Expresarse oralmente con claridad.<br />Elaborar producciones digitales creativas.<br />Trabajar cooperativamente respetando las opiniones de los demás.<br />Utilizar herramientas digitales de manera responsable y segura.<br />Reflexionar sobre su propio proceso de aprendizaje.<br /> <br /><strong>4. Competencias específicas trabajadas</strong><br />Lengua Castellana y Literatura<br />Comprender e interpretar textos escritos.<br />Expresarse oralmente de forma adecuada.<br />Crear producciones escritas y digitales coherentes.<br />Participar en interacciones comunicativas respetuosas.<br />Competencia Digital<br />Utilizar herramientas digitales de forma responsable.<br />Crear contenidos digitales.<br />Gestionar información digital.<br />Participar en entornos virtuales de aprendizaje.<br /> <br /><strong>5. Competencias clave</strong><br />Competencia en comunicación lingüística.<br />Competencia digital.<br />Competencia personal, social y de aprender a aprender.<br />Competencia ciudadana.<br />Competencia emprendedora.<br /> <br /><strong>6. Saberes básicos</strong><br />Comprensión lectora<br />Estrategias de lectura comprensiva.<br />Identificación de ideas principales y secundarias.<br />Interpretación de textos digitales.<br />Expresión oral<br />Exposición oral.<br />Debate.<br />Comunicación respetuosa.<br />Competencia digital<br />Uso de Google Classroom.<br />Creación de contenidos con Canva.<br />Seguridad y ciudadanía digital.<br />Trabajo cooperativo<br />Roles grupales.<br />Resolución dialogada de conflictos.<br />Escucha activa.<br /> <br /><strong>7. Secuencia didáctica</strong><br />Sesión<br />Actividad principal<br />Agrupamiento<br />Herramientas<br />Sesión 0<br />Lectura y formulario<br />Individual<br />Classroom y Forms<br />Sesión 1<br />Debate y mapa conceptual<br />Grupos cooperativos<br />Kahoot y pizarra digital<br />Sesión 2<br />Creación del Canva<br />Parejas<br />Canva<br />Sesión 3<br />Exposición y evaluación<br />Gran grupo<br />Canva y rúbricas<br /> <br /><strong>8. Relación entre tareas y criterios de evaluación</strong><br />Actividad<br />Qué se evalúa<br />Instrumento<br />Formulario inicial<br />Comprensión lectora<br />Formulario Google<br />Debate<br />Expresión oral<br />Observación directa<br />Mapa conceptual<br />Organización de ideas<br />Lista de cotejo<br />Canva<br />Competencia digital y creatividad<br />Rúbrica<br />Exposición oral<br />Comunicación oral<br />Rúbrica<br />Autoevaluación<br />Reflexión del aprendizaje<br />Diana<br /> <br /><strong>9. Instrumentos de evaluación</strong><br />Se utilizarán diversos instrumentos para realizar una evaluación continua y formativa:</p>\n<p>Rúbrica de evaluación.<br />Diana de autoevaluación.<br />Lista de cotejo.<br />Observación directa.<br />Coevaluación.<br />Formularios digitales.<br />La variedad de instrumentos permite recoger información desde diferentes perspectivas y favorecer la triangulación de datos.</p>\n<p> <br /><strong>10. Atención a la diversidad</strong><br />La SdA incorpora medidas para atender a la diversidad del alumnado:</p>\n<p>Agrupamientos flexibles.<br />Recursos visuales y audiovisuales.<br />Actividades multinivel.<br />Apoyo entre iguales.<br />Flexibilidad en la presentación de tareas.<br />Diferentes formas de participación y expresión.<br /> <br /><strong>11. Aplicación de los principios DUA</strong><br />Múltiples formas de implicación<br />Gamificación.<br />Trabajo cooperativo.<br />Actividades creativas.<br />Herramientas digitales motivadoras.<br />Múltiples formas de representación<br />Vídeos.<br />Imágenes.<br />Textos.<br />Mapas conceptuales.<br />Explicaciones orales.<br />Múltiples formas de acción y expresión<br />Canva.<br />Debates.<br />Exposiciones orales.<br />Autoevaluaciones.<br />Formularios digitales.<br /> <br /><strong>12. Recomendaciones metodológicas</strong><br />Introducir progresivamente la metodología de aula invertida.<br />Mantener comunicación constante con las familias.<br />Facilitar tutoriales digitales al alumnado.<br />Ofrecer apoyo individualizado cuando sea necesario.<br />Priorizar el aprendizaje activo y significativo.<br /> <br /><strong>13. Recursos necesarios</strong><br />Recursos digitales:<br /></p>\n<ul>\n<li>Google Classroom</li>\n<li>Canva</li>\n<li>Kahoot</li>\n<li>Formularios Google</li>\n<li>Ordenadores o tablets</li>\n<li>Pizarra digital</li>\n<li>Conexión a internet</li>\n</ul>\n<p>Recursos materiales:</p>\n<ul>\n<li>Cuaderno del alumnado<br /> <br /><strong>14. Evaluación de la práctica docente</strong></li>\n</ul>\n<p>Al finalizar la SdA se realizará una reflexión sobre:</p>\n<ul>\n<li>Participación del alumnado.</li>\n<li>Funcionamiento del aula invertida.</li>\n<li>Uso de herramientas digitales.</li>\n<li>Motivación del alumnado.</li>\n<li>Resultados obtenidos.</li>\n<li>Posibles mejoras futuras.</li>\n</ul>\n<p> <br /><strong></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778237175230-5vxdko9nw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>14. Créditos y licencias</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>14. Créditos y licencias</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778237175230-5vxdko9nw</odePageId>
+      <odeBlockId>block-1778240907039-fonzo418k</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778237175230-5vxdko9nw</odePageId>
+          <odeBlockId>block-1778240907039-fonzo418k</odeBlockId>
+          <odeIdeviceId>idevice-1778240907036-2izh31kwe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>14. CRÉDITOS Y LICENCIA</strong></p>
+<p><br />Créditos del recurso educativo<br />Recurso elaborado por:</p>
+<p>Alfonso García Ávila</p>
+<p>Maestro de Educación Primaria especialista en Educación Física y Competencia Digital.</p>
+<p><br />Descripción del recurso<br />Este recurso educativo abierto (REA) corresponde a una Situación de Aprendizaje titulada:</p>
+<p>“El maravilloso mundo de la Lengua Castellana”<br />Diseñada para alumnado de 6º de Educación Primaria.</p>
+<p>La propuesta utiliza metodologías activas como:</p>
+<p>Aula invertida.<br />Aprendizaje cooperativo.<br />Gamificación.<br />Evaluación formativa.<br />Creación de contenidos digitales.<br />El objetivo principal es mejorar la comprensión lectora y la competencia digital mediante actividades motivadoras y colaborativas.</p>
+<p> <br />Herramientas utilizadas<br />Para la elaboración de este proyecto se han utilizado las siguientes herramientas digitales:</p>
+<p>eXeLearning 3<br />Canva<br />Google Classroom<br />Formularios Google<br />Kahoot<br /> <br />Recursos multimedia y licencias<br />Las imágenes, iconos y recursos multimedia utilizados en este proyecto proceden de bancos de recursos libres o cuentan con licencia educativa adecuada.</p>
+<p>Recursos utilizados:<br />Pixabay<br />Freepik<br />Canva<br />Unsplash<br />Tipo de licencia:<br />Creative Commons<br />Licencias educativas gratuitas<br />Recursos libres de uso educativo<br /> <br />Licencia del proyecto<br />Este recurso se comparte bajo licencia:</p>
+<p>Creative Commons BY-NC-SA 4.0<br />Esto permite:</p>
+<p>Compartir el material.<br />Adaptarlo y modificarlo.<br />Utilizarlo con fines educativos.<br />Siempre que:</p>
+<p>Se reconozca la autoría.<br />No se utilice con fines comerciales.<br />Las nuevas creaciones mantengan la misma licencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778240907036-2izh31kwe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>14. CRÉDITOS Y LICENCIA</strong></p>\n<p><br />Créditos del recurso educativo<br />Recurso elaborado por:</p>\n<p>Alfonso García Ávila</p>\n<p>Maestro de Educación Primaria especialista en Educación Física y Competencia Digital.</p>\n<p><br />Descripción del recurso<br />Este recurso educativo abierto (REA) corresponde a una Situación de Aprendizaje titulada:</p>\n<p>“El maravilloso mundo de la Lengua Castellana”<br />Diseñada para alumnado de 6º de Educación Primaria.</p>\n<p>La propuesta utiliza metodologías activas como:</p>\n<p>Aula invertida.<br />Aprendizaje cooperativo.<br />Gamificación.<br />Evaluación formativa.<br />Creación de contenidos digitales.<br />El objetivo principal es mejorar la comprensión lectora y la competencia digital mediante actividades motivadoras y colaborativas.</p>\n<p> <br />Herramientas utilizadas<br />Para la elaboración de este proyecto se han utilizado las siguientes herramientas digitales:</p>\n<p>eXeLearning 3<br />Canva<br />Google Classroom<br />Formularios Google<br />Kahoot<br /> <br />Recursos multimedia y licencias<br />Las imágenes, iconos y recursos multimedia utilizados en este proyecto proceden de bancos de recursos libres o cuentan con licencia educativa adecuada.</p>\n<p>Recursos utilizados:<br />Pixabay<br />Freepik<br />Canva<br />Unsplash<br />Tipo de licencia:<br />Creative Commons<br />Licencias educativas gratuitas<br />Recursos libres de uso educativo<br /> <br />Licencia del proyecto<br />Este recurso se comparte bajo licencia:</p>\n<p>Creative Commons BY-NC-SA 4.0<br />Esto permite:</p>\n<p>Compartir el material.<br />Adaptarlo y modificarlo.<br />Utilizarlo con fines educativos.<br />Siempre que:</p>\n<p>Se reconozca la autoría.<br />No se utilice con fines comerciales.<br />Las nuevas creaciones mantengan la misma licencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
